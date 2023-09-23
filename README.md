@@ -11,7 +11,7 @@
 
 ## Overview
 
-- This tis a demo app for Fluyo, a language learning app. It was built with React Native(Expo), and TypeScript.
+- This is a demo app for Fluyo, a language learning app. It was built with React Native(Expo), and TypeScript, all the data is in Firebase, and Redux was used for state management.
 
 ### The challenge
 
@@ -36,4 +36,7 @@ Users should be able to:
 
 - React Native
 - TypeScript
+- Firebase
 - CSS
+- Redux
+- React-Navigation
