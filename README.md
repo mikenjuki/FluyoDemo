@@ -6,7 +6,6 @@
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
   - [Built with](#built-with)
 - [Author](#author)
 
@@ -24,12 +23,14 @@ Users should be able to:
 
 ### Screenshot
 
+![Begin Screenshot](./src/assets/login-screenshot.jpg)
 ![App Screenshot](./src/assets/correct-screenshot.jpg)
+![Wrong Answer Screenshot](./src/assets/fail-screenshot.jpg)
+![End Exercise Screenshot](./src/assets/end-exercise-screenshot.jpg)
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/mikenjuki/Base-apparel-landing-page)
-- Live Site URL: [Live Site](https://mikenjuki.github.io/Base-apparel-landing-page/)
+- Solution URL: [GitHub](https://github.com/mikenjuki/FluyoDemo)
 
 ### Built with
 
