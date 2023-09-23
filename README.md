@@ -35,7 +35,7 @@ Users should be able to:
 
 <img src="./src/assets/login-screenshot.jpg" alt="Begin Screenshot" width="250" height="400" />
 <img src="./src/assets/correct-screenshot.jpg" alt="App Screenshot" width="250" height="400" />
-<img src="./src/assets/fail-screenshot.jpg" alt="Wrong Answer Screenshot" width="450" height="200" />
+<img src="./src/assets/fail-screenshot.jpg" alt="Wrong Answer Screenshot" width="250" height="400" />
 <img src="./src/assets/end-exercise-screenshot.jpg" alt="End Exercise Screenshot" width="250" height="400" />
 
 ### Firebase Schema
