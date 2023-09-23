@@ -28,6 +28,12 @@ Users should be able to:
 ![Wrong Answer Screenshot](./src/assets/fail-screenshot.jpg)
 ![End Exercise Screenshot](./src/assets/end-exercise-screenshot.jpg)
 
+### Firebase Schema
+
+- A look at the firebase firestore
+  ![Questions Schema Screenshot](./src/assets/firebase_questions_schema.png)
+  ![Translations Schema Screenshot](./src/assets/translations_schema.png)
+
 ### Links
 
 - Solution URL: [GitHub](https://github.com/mikenjuki/FluyoDemo)
