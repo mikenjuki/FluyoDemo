@@ -4,7 +4,7 @@
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshots)
   - [Firebase Screenshots](#firebase-schema)
   - [Links](#links)
   - [Built with](#built-with)
@@ -31,14 +31,12 @@ Users should be able to:
 - Answer Questions and see if they are correct or not
 - Click on foreign word to see english translation
 
-### Screenshot
+### Screenshots
 
+<img src="./src/assets/login-screenshot.jpg" alt="Begin Screenshot" width="250" height="400" />
+<img src="./src/assets/correct-screenshot.jpg" alt="App Screenshot" width="250" height="400" />
+<img src="./src/assets/fail-screenshot.jpg" alt="Wrong Answer Screenshot" width="450" height="200" />
 <img src="./src/assets/end-exercise-screenshot.jpg" alt="End Exercise Screenshot" width="250" height="400" />
-
-![Begin Screenshot](./src/assets/login-screenshot.jpg)
-![App Screenshot](./src/assets/correct-screenshot.jpg)
-![Wrong Answer Screenshot](./src/assets/fail-screenshot.jpg)
-![End Exercise Screenshot](./src/assets/end-exercise-screenshot.jpg)
 
 ### Firebase Schema
 
