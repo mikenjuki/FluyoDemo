@@ -5,6 +5,7 @@
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Firebase Screenshots](#firebase-schema)
   - [Links](#links)
   - [Built with](#built-with)
 - [Author](#author)
@@ -12,6 +13,15 @@
 ## Overview
 
 - This is a demo app for Fluyo, a language learning app. It was built with React Native(Expo), and TypeScript, all the data is in Firebase, and Redux was used for state management.
+
+# IMPORTANT
+
+- To run the app follow these steps:
+- npm install
+- npm start
+- open in Expo go
+
+Node version is v18.16.0
 
 ### The challenge
 
