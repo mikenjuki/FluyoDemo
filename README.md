@@ -33,6 +33,8 @@ Users should be able to:
 
 ### Screenshot
 
+<img src="./src/assets/end-exercise-screenshot.jpg" alt="End Exercise Screenshot" width="200" height="200" />
+
 ![Begin Screenshot](./src/assets/login-screenshot.jpg)
 ![App Screenshot](./src/assets/correct-screenshot.jpg)
 ![Wrong Answer Screenshot](./src/assets/fail-screenshot.jpg)
