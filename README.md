@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Screenshot
 
-<img src="./src/assets/end-exercise-screenshot.jpg" alt="End Exercise Screenshot" width="200" height="200" />
+<img src="./src/assets/end-exercise-screenshot.jpg" alt="End Exercise Screenshot" width="200" height="500" />
 
 ![Begin Screenshot](./src/assets/login-screenshot.jpg)
 ![App Screenshot](./src/assets/correct-screenshot.jpg)
