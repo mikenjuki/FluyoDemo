@@ -35,6 +35,9 @@ const getQuestions = (id?: number) => (dispatch: Dispatch) => {
             isCorrect: false,
           };
         })
+        .map((value) => ({ value, sort: Math.random() }))
+        .sort((a, b) => a.sort - b.sort)
+        .map(({ value }) => value)
         .filter((q, i) => i < 5);
 
       dispatch(
