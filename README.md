@@ -12,7 +12,7 @@
 
 ## Overview
 
-- This is a demo app for Fluyo, a language learning app. It was built with React Native(Expo), and TypeScript, all the data is in Firebase, and Redux was used for state management.
+- This is a demo app for Fluyo, a language-learning app. It was built with React Native(Expo), and TypeScript, all the data is in Firebase, and Redux was used for state management.
 
 # IMPORTANT
 
@@ -27,9 +27,9 @@ Node version is v18.16.0
 
 Users should be able to:
 
-- Log in and start excercise
+- Log in and start exercise
 - Answer Questions and see if they are correct or not
-- Click on foreign word to see english translation
+- Click on a foreign word to see English translation
 
 ### Screenshots
 
@@ -40,7 +40,7 @@ Users should be able to:
 
 ### Firebase Schema
 
-- A look at the firebase firestore
+- A look at the Firebase Firestore
   ![Questions Schema Screenshot](./src/assets/firebase_questions_schema.png)
   ![Translations Schema Screenshot](./src/assets/translations_schema.png)
 
