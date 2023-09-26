@@ -45,7 +45,7 @@ Users should be able to:
   ![Translations Schema Screenshot](./src/assets/translations_schema.png)
 
 ### Links
-
+<!--  -->
 - Solution URL: [GitHub](https://github.com/mikenjuki/FluyoDemo)
 
 ### Built with
